@@ -1,3 +1,2 @@
-
-Git is version contron system.
-Git is frww software.
+Git is a distributed version control system.
+Git is frww software distributed under the GPL.
